@@ -1,4 +1,4 @@
-# Dental Image Classification using Convolutional Neural Networks
+<h1>Dental Image Classification using Convolutional Neural Networks</h1>
 
 This project utilizes Convolutional Neural Networks (CNNs) to classify dental images into two categories: periodontal and non-periodontal. The dataset consists of dental images collected from various sources.
 
