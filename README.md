@@ -1,6 +1,6 @@
 # Dental Image Classification using Convolutional Neural Networks
 
-This project utilizes Convolutional Neural Networks (CNNs) to classify dental images into two categories: periodontal(periodontitis: an infection of the tissues that hold your teeth in place) and non-periodontal. The dataset consists of dental images collected from kaggle.
+This project utilizes Convolutional Neural Networks (CNNs) to classify dental images into two categories: periodontal(periodontitis: an infection of the tissues that hold your teeth in place) and non-periodontal. The dataset consists of dental images collected from kaggle.</br>
 Link to the dataset: https://www.kaggle.com/datasets/hasnitadita/image-dental-panoramic/data
 
 ## Overview
