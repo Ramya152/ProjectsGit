@@ -1,0 +1,4 @@
+This is a kaggle dataset which is only 100 images of non-penyakit-orthodontic dental and penyakit-orthodontic dental ct scan images. 
+https://www.kaggle.com/datasets/hasnitadita/image-dental-panoramic (dataset link) upon which we included basic Convolutional Neural Network and made a model with around 90 % accuracy 
+The team includes a Masters Student (Amrutham Bhavya Vaishnavi) from IUPUI (Indiana University–Purdue University Indianapolis), who has done her bachelors in dental sciences and is a core field expert.
+Other member is an incoming Masters student (Suraj Karra) who is interested in the field of Deep Learning.  
