@@ -38,8 +38,8 @@ Each directory is further divided into subdirectories representing the two class
 
 ## Requirements
 
-- Python 3.x
-- TensorFlow 2.x
+- Python 
+- TensorFlow
 - Keras
 - Matplotlib
 - Pandas
