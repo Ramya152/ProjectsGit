@@ -28,7 +28,7 @@ Each directory is further divided into subdirectories representing the two class
 
 ## Results
 
-- The model achieved an accuracy rate of X% on the test dataset.
+- The model achieved an accuracy rate of 60% on the test dataset.
 - Loss and accuracy curves during training and validation are visualized using matplotlib.
 
 ## Prediction on New Images
